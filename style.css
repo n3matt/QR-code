@@ -23,19 +23,20 @@ body {
 .content {
     padding: 15px;
     background-color: var(--White);
-    border-radius: 15px;
-    max-width: 335px;
+    border-radius: 10px;
+    max-width: 330px;
     text-align: center;
 }
 
 h2 {
-    padding: 10px 20px;
+    padding: 10px 20px 5px;
+    color: var(--Dark);
 }
 
 p {
     font-size: 15px;
     color: var(--Grayish);
-    padding: 10px 20px;
+    padding: 10px 20px 5px;
 }
 
 img {
