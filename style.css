@@ -28,15 +28,15 @@ body {
     text-align: center;
 }
 
-h2 {
-    padding: 10px 20px 5px;
+h3 {
+    padding: 15px 20px 5px;
     color: var(--Dark);
 }
 
 p {
     font-size: 15px;
     color: var(--Grayish);
-    padding: 10px 20px 5px;
+    padding: 15px 20px 5px;
 }
 
 img {
