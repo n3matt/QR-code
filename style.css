@@ -24,18 +24,18 @@ body {
     padding: 15px;
     background-color: var(--White);
     border-radius: 15px;
-    max-width: 345px;
+    max-width: 335px;
     text-align: center;
 }
 
 h2 {
-    padding: 20px;
+    padding: 10px 20px;
 }
 
 p {
     font-size: 15px;
     color: var(--Grayish);
-    padding: 20px;
+    padding: 10px 20px;
 }
 
 img {
