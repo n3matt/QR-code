@@ -42,5 +42,6 @@ p {
 
 img {
     max-width: 100%;
+    border-radius: 7px;
 }
 
